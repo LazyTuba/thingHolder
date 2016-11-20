@@ -1,0 +1,14 @@
+{
+  "name": "thingHolder",
+  "version": "1.0.1",
+  "description": "Collects objects for each tag in an array of tags, and emits event when the object for every tag has been received",
+  "main": "thingHolder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Lazy Tuba",
+    "email": "LazyTuba@att.net"
+  },
+  "license": "ISC"
+}
