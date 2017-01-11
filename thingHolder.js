@@ -50,7 +50,7 @@ ThingHolder.prototype.add = function(tag, thing) {
 };
 
 // Returns the thing for particular tag
-ThingHolder.prototype.things = function(tag) {
+ThingHolder.prototype.thing = function(tag) {
     if (tag in this.things) {
 	return this.things[tag];
     } else {
