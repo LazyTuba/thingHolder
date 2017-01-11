@@ -1,6 +1,6 @@
 {
   "name": "thingHolder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Collects objects for each tag in an array of tags, and emits event when the object for every tag has been received",
   "main": "thingHolder.js",
   "scripts": {
