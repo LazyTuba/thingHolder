@@ -37,3 +37,4 @@ with a string announcing that fact.
      collector.add('d', "This is an D");
      collector.add('c', "This is an C");
 
+     console.log("We collected (%s) for tag 'a'", collector.thing('a'));
